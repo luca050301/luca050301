@@ -1,4 +1,4 @@
-# Hey 👋! I'm Luca, a full-stack mobile and web developer from Austri
+# Hey 👋! I'm Luca, a full-stack mobile and web developer from Austria
 
 
 🎓 I'm Studying Computer Science at Vienna University of Technology<br>
