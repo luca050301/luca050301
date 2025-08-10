@@ -1,9 +1,9 @@
 # Hey 👋! I'm Luca, a full-stack mobile and web developer from Austria
 
-🎓 I'm Studying Computer Science at Vienna University of Technology<br>
-🔭 I’m currently working on enterprise development of mobile and web  applications<br>
-🎮 In my free time I enjoy working on exciting 3D game experiences using Unity<br>
-🌐 Also, feel free to check out my website :)
+💼 Currently building enterprise-grade mobile and web applications.<br>
+🎓 Graduate of Software & Information Engineering at Vienna University of Technology.<br>
+✨ Passionate about crafting robust back-end systems with Java and Spring, dynamic web interfaces with Angular, modern Android apps with Kotlin, and immersive 3D experiences with Unity.<br>
+🚀 Always eager to learn new technologies and take on exciting challenges. If you have an interesting idea or project, let's connect!
 
 ## Tech Stack
 
